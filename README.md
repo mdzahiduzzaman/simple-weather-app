@@ -1,1 +1,1 @@
-# simple-weather-app
+A simple Android weather application created using Android Studio. This project uses Java as the main programming language. This also utilizes Retrofit as an HTTP client to get JSON data from OpenWeatherMap API.
