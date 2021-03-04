@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Weather App</string>
+    <string name="temperature">0</string>
+    <string name="city">City</string>
+</resources>
