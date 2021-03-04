@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="city_name">For Dhaka, BD</string>
+    <string name="temperature_example">14 C</string>
+    <string name="feels_like">Feels like 13 C</string>
+    <string name="weather_details_text">Weather details</string>
+    <string name="datetime_example">11 January 2021</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="max_min_temp">Max. temp: 17 C Min. temp: 8 C</string>
+    <string name="default_text">None</string>
+    <string name="wind_speed_unit">m/s</string>
+    <string name="pressure_unit">hpa</string>
+    <string name="humidity_unit">%</string>
+    <string name="visibility_unit">km</string>
+    <string name="forecast_text">3 hours/5 days weather forecast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
